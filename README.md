@@ -1,4 +1,4 @@
-![My Logo](https://github.com/aleemahmedkhan/aleemahmedkhan/blob/main/my_logo.jfif)
+![My Logo]("https://github.com/aleemahmedkhan/aleemahmedkhan/blob/main/my_logo.jfif")
 <h1 align="center">Hi 👋, I'm Aleem Ahmed Khan</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/aleemahmedkhan/aleemahmedkhan/blob/main/111.gif">
